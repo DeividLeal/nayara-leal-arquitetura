@@ -1,0 +1,13 @@
+/* src/styles/Sobre.css */
+#sobre {
+    padding: 2rem;
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  #sobre h2 {
+    font-family: 'Cinzel Decorative', cursive;
+    color: var(--gold);
+    margin-bottom: 1rem;
+  }
+  
